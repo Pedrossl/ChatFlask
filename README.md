@@ -1,6 +1,6 @@
 # Chat em Tempo Real com Flask e Socket.IO
 
-Este é um projeto simples de chat em tempo real, inspirado no WhatsApp, desenvolvido com Flask no backend e Socket.IO para comunicação em tempo real.
+Este é um projeto simples de chat em tempo real, inspirado em grupos WhatsApp, desenvolvido com Flask no backend e Socket.IO para comunicação em tempo real.
 
 ## Funcionalidades
 
