@@ -23,6 +23,9 @@ Este é um projeto simples de chat em tempo real, inspirado em grupos WhatsApp, 
 - **HTML5 e CSS3**: Estrutura e estilização da página.
 - **JavaScript**: Lógica do cliente para comunicação via Socket.IO.
 
+## Exemplo de tela
+![image](https://github.com/user-attachments/assets/5969b3d6-98d1-466c-a48c-1503c615f906)
+
 ## Pré-requisitos
 
 - Python 3.7 ou superior.
