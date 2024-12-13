@@ -14,7 +14,7 @@ Este é um projeto simples de chat em tempo real, inspirado em grupos WhatsApp, 
 - Comunicação em tempo real entre usuários.
 - Mensagens diferenciadas para o remetente e destinatários.
 - Formulário fixado na parte inferior da página.
-- Design inspirado em aplicativos de mensagens modernas.
+- 2 designs disponíveis, inspirados em aplicativos modernos de mensagens, um disponível na página raíz e o outro em /page2 
 
 ## Tecnologias Utilizadas
 
