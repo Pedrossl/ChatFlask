@@ -1,4 +1,4 @@
-0# Chat em Tempo Real com Flask e Socket.IO
+# Chat em Tempo Real com Flask e Socket.IO
 
 Este é um projeto simples de chat em tempo real, inspirado no WhatsApp, desenvolvido com Flask no backend e Socket.IO para comunicação em tempo real.
 
@@ -27,37 +27,44 @@ Este é um projeto simples de chat em tempo real, inspirado no WhatsApp, desenvo
    ```bash
    git clone https://github.com/seu-usuario/chat-flask-socketio.git
    cd chat-flask-socketio
-Crie um ambiente virtual:
+   ```
 
-bash
-Copiar código
-python -m venv venv
-Ative o ambiente virtual:
+2. **Crie um ambiente virtual:**
+   ```bash
+   python -m venv venv
+   ```
 
-No Linux/macOS:
-bash
-Copiar código
-source venv/bin/activate
-No Windows:
-bash
-Copiar código
-venv\Scripts\activate
-Instale as dependências do projeto:
+3. **Ative o ambiente virtual:**
 
-bash
-Copiar código
-pip install flask flask-socketio
-Inicie o servidor Flask:
+   No Linux/macOS:
+   ```bash
+   source venv/bin/activate
+   ```
 
-bash
-Copiar código
-python app.py
-Acesse o projeto no navegador:
+   No Windows:
+   ```bash
+   venv\Scripts\activate
+   ```
 
-Abra o navegador e acesse: http://127.0.0.1:5000
-Estrutura do Projeto
-plaintext
-Copiar código
+4. **Instale as dependências do projeto:**
+   ```bash
+   pip install flask flask-socketio
+   ```
+
+5. **Inicie o servidor Flask:**
+   ```bash
+   python app.py
+   ```
+
+6. **Acesse o projeto no navegador:**
+
+   Abra o navegador e acesse: [http://127.0.0.1:5000](http://127.0.0.1:5000)
+
+---
+
+## Estrutura do Projeto
+
+```plaintext
 chat-flask-socketio/
 ├── static/
 │   ├── styles.css    # Arquivo CSS para estilização
