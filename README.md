@@ -2,7 +2,7 @@
 
 Este é um projeto simples de chat em tempo real, inspirado em grupos WhatsApp, desenvolvido com Flask no backend e Socket.IO para comunicação em tempo real.
 
-# Informações Acadêmicas:
+## Informações Acadêmicas:
 ### Unidade curricular: Automação e Programabilidade em Redes
 #### Professor: Wagner Loch
 #### Integrantes do Grupo:
